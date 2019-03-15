@@ -1,0 +1,22 @@
+<Events startTimestamp="1538559410136" logVersion="0.9.0.201406261251" osName="Windows 8" osVersion="6.2" lineSeparator="\r\n">
+  <Annotation __id="0" _type="Annotation" timestamp="89" workspaceID="4eb5438f-d0df-4a32-b774-6b9657e17823" />
+  <Command __id="1" _type="FileOpenCommand" projectName="null" timestamp="23492">
+    <filePath><![CDATA[null]]></filePath>
+  </Command>
+  <Command __id="2" _type="EclipseCommand" commandID="org.eclipse.ui.edit.text.openLocalFile" timestamp="23528" />
+  <Command __id="3" _type="MoveCaretCommand" caretOffset="0" docOffset="0" timestamp="23903" />
+  <Command __id="4" _type="MoveCaretCommand" caretOffset="139" docOffset="285" timestamp="26573" />
+  <Command __id="5" _type="MoveCaretCommand" caretOffset="201" docOffset="347" timestamp="31575" />
+  <Command __id="6" _type="SelectTextCommand" caretOffset="205" docEnd="351" docOffset="351" docStart="342" end="205" start="196" timestamp="31774" />
+  <Command __id="7" _type="SelectTextCommand" caretOffset="239" docEnd="385" docOffset="385" docStart="330" end="239" start="184" timestamp="31921" />
+  <Command __id="8" _type="MoveCaretCommand" caretOffset="266" docOffset="412" timestamp="33097" />
+  <Command __id="9" _type="SelectTextCommand" caretOffset="268" docEnd="414" docOffset="414" docStart="407" end="268" start="261" timestamp="33315" />
+  <Command __id="10" _type="SelectTextCommand" caretOffset="282" docEnd="428" docOffset="428" docStart="385" end="282" start="239" timestamp="33540" />
+  <Command __id="11" _type="SelectTextCommand" caretOffset="248" docEnd="394" docOffset="394" docStart="385" end="248" start="239" timestamp="33708" />
+  <Command __id="12" _type="MoveCaretCommand" caretOffset="306" docOffset="452" timestamp="34241" />
+  <Command __id="13" _type="SelectTextCommand" caretOffset="343" docEnd="489" docOffset="489" docStart="449" end="343" start="303" timestamp="34427" />
+  <Command __id="14" _type="SelectTextCommand" caretOffset="361" docEnd="507" docOffset="507" docStart="467" end="361" start="321" timestamp="34861" />
+  <Command __id="15" _type="MoveCaretCommand" caretOffset="396" docOffset="542" timestamp="35352" />
+  <Command __id="16" _type="MoveCaretCommand" caretOffset="2065" docOffset="2211" timestamp="56200" />
+  <Command __id="17" _type="MoveCaretCommand" caretOffset="3096" docOffset="3242" timestamp="81242" />
+</Events>
